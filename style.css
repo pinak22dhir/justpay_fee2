@@ -462,3 +462,30 @@ li {
   color: black;
   margin-left: 82%;
 }
+.product__img {
+  max-width: 5.625;
+  padding: 2rem;
+}
+.product__img {
+  max-width: 5.625;
+  padding: 2rem;
+}
+.i9{
+  vertical-align: top;
+}
+.image2{
+  vertical-align: top;
+}
+.column{
+    max-width: 100px;
+    padding-bottom: 4em;
+    padding-top: 0em;
+    width: 100%;
+     justify-content: center;
+
+
+}
+.i12{
+  justify-content: space-between;
+  width:120px;
+}
